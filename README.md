@@ -1,5 +1,7 @@
 # Analysis of Algorithm
-by Ahmad Fariz
+by Ahmad Fariz 
+
+Source https://docs.google.com/document/d/1sml7Zoo5FrppPHLfhwm3OvL6Xi23etxUfQ1wXer6YC4/edit?usp=sharing
 
 ## Asymptotic Analysis
 Analisis para algoritma untuk menentukan batas/framing algoritma pada performa run time
@@ -23,11 +25,20 @@ input bound
 2. 𝜴 notation : lower bound
 3. 𝜭 notation : upper + lower bounds
 
+### Common notations:
+| | | |
+| --- | --- | ---- |
+| constant | − | Ο(1)|
+| logarithmic | − | Ο(log n) |
+| linear | − | Ο(n) |
+| n log n | − | Ο(n log n) |
+| quadratic | − | Ο(n2) |
+| cubic | − | Ο(n3) |
+| polynomial | − | nΟ(1) |
+| exponential | − | 2Ο(n) |
 
 ## Big-O notation
 Asymptotic analysis untuk menentukan batas atas performa run time dari algoritma
-
-
 
 ## References
 * Tutorialspoint. Data Structure - Asymptotic Analysis. [Online] https://www.tutorialspoint.com/data_structures_algorithms/asymptotic_analysis.htm 
